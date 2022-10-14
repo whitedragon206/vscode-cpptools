@@ -5790,7 +5790,7 @@
     "@vscode/extension-telemetry": "^0.6.2",
     "vscode-languageclient": "^8.0.1",
     "vscode-nls": "^5.0.0",
-    "vscode-tas-client": "^0.1.27",
+    "vscode-tas-client": "^0.1.63",
     "which": "^2.0.2",
     "yauzl": "^2.10.0"
   },
