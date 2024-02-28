@@ -5782,7 +5782,7 @@
     "mkdirp": "^0.5.5",
     "node-loader": "^2.0.0",
     "plist": "^3.0.5",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.2",
     "posix-getopt": "^1.2.1",
     "shell-quote": "^1.7.3",
     "ssh-config": "^4.1.0",
