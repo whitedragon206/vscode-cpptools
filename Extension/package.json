@@ -5775,7 +5775,7 @@
   "dependencies": {
     "chokidar": "^3.5.3",
     "comment-json": "^4.1.1",
-    "editorconfig": "^0.15.3",
+    "editorconfig": "^1.0.3",
     "escape-string-regexp": "^2.0.0",
     "glob": "^7.1.6",
     "minimatch": "^3.0.4",
@@ -5788,9 +5788,9 @@
     "ssh-config": "^4.1.0",
     "vscode-cpptools": "^6.1.0",
     "@vscode/extension-telemetry": "^0.6.2",
-    "vscode-languageclient": "^8.0.1",
+    "vscode-languageclient": "^8.1.0",
     "vscode-nls": "^5.0.0",
-    "vscode-tas-client": "^0.1.27",
+    "vscode-tas-client": "^0.1.84",
     "which": "^2.0.2",
     "yauzl": "^2.10.0"
   },
